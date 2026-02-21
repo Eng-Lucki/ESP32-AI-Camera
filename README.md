@@ -42,7 +42,7 @@ _Note: Pin mapping may vary based on your specific I2C configuration._
 
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/Eng-Lucki/ESP32-AI-Camera.git](https://github.com/Eng-Lucki/ESP32-AI-Camera.git)
+   git clone https://github.com/Eng-Lucki/ESP32-AI-Camera.git
    ```
 2. **Install Libraries:**
    - `Adafruit_SSD1306` & `Adafruit_GFX` (for the display).
