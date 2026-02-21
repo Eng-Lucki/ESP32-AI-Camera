@@ -40,17 +40,16 @@ _Note: Pin mapping may vary based on your specific I2C configuration._
 
 ## Installation & Setup
 
-1.  **Clone the Repo:**
-
-````bash
-    git clone [https://github.com/](https://github.com/Eng-Lucki/ESP32-AI-Camera.git
-    ```
-2.  **Install Libraries:**
-    - `Adafruit_SSD1306` & `Adafruit_GFX` (for the display).
-    - Your exported `Edge Impulse` library.
-3.  **Flash the Board:**
-    - Connect the FTDI adapter (IO0 to GND for flash mode).
-    - Select **AI Thinker ESP32-CAM** in your IDE and hit upload.
+1. **Clone the Repo:**
+   ```bash
+   git clone [https://github.com/Eng-Lucki/ESP32-AI-Camera.git](https://github.com/Eng-Lucki/ESP32-AI-Camera.git)
+   ```
+2. **Install Libraries:**
+   - `Adafruit_SSD1306` & `Adafruit_GFX` (for the display).
+   - Your exported `Edge Impulse` library.
+3. **Flash the Board:**
+   - Connect the FTDI adapter (IO0 to GND for flash mode).
+   - Select **AI Thinker ESP32-CAM** in your IDE and hit upload.
 
 ## The AI Model
 
@@ -58,7 +57,11 @@ The model was trained using **Edge Impulse** with a dataset of [100] images. It 
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
-**Haider fouad** AND **Mohamad Radi** _Computer Engineering Students at U.O.T_
-````
+**Haider Fouad** and **Mohamad Radi**
+_Computer Engineering Students at U.O.T_
+
+```
+
+```
