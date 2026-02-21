@@ -61,7 +61,3 @@ The model was trained using **Edge Impulse** with a dataset of [100] images. It 
 
 **Haider Fouad** and **Mohamad Radi**
 _Computer Engineering Students at U.O.T_
-
-```
-
-```
