@@ -1,7 +1,9 @@
 ESP32-CAM AI Object Detector
 
 An embedded computer vision project using the **ESP32-CAM** module and **Edge Impulse** to perform real-time object detection. The system identifies objects and displays the results on an **OLED screen**.
-![Ai-camara-pic](assets/CAM-Project.png)
+
+  <img src="assets/CAM-Project.png" width="600" title="ESP32-CAM AI Detector">
+</p>
 
 ---
 
@@ -39,6 +41,10 @@ _Note: Pin mapping may vary based on your specific I2C configuration._
 ## Installation & Setup
 
 1.  **Clone the Repo:**
+
+````bash
+    git clone [https://github.com/](https://github.com/Eng-Lucki/ESP32-AI-Camera.git
+    ```
 2.  **Install Libraries:**
     - `Adafruit_SSD1306` & `Adafruit_GFX` (for the display).
     - Your exported `Edge Impulse` library.
@@ -55,3 +61,4 @@ The model was trained using **Edge Impulse** with a dataset of [100] images. It 
 ## 👤 Author
 
 **Haider fouad** AND **Mohamad Radi** _Computer Engineering Students at U.O.T_
+````
