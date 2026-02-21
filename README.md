@@ -10,7 +10,7 @@ An embedded computer vision project using the **ESP32-CAM** module and **Edge Im
 * **Low Power:** Optimized for the ESP32-S chip.
 * **Custom Model:** Trained via Edge Impulse for [Insert what your camera detects, e.g., "People/Pets"].
 
-## 🛠️Hardware Requirements
+## Hardware Requirements
 * **Core:** ESP32-CAM Module
 * **Display:** 0.96" I2C OLED Screen (SSD1306)
 * **Programmer:** FTDI USB-to-TTL Adapter (for uploading code)
