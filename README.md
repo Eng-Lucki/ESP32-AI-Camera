@@ -1,7 +1,7 @@
 ESP32-CAM AI Object Detector
 
 An embedded computer vision project using the **ESP32-CAM** module and **Edge Impulse** to perform real-time object detection. The system identifies objects and displays the results on an **OLED screen**.
-
+![Ai-camara-pic](assets/CAM-Project.png)
 ---
 
 ## Features
